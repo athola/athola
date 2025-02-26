@@ -3,7 +3,7 @@
 
 ## 🚀 About Me
 
-Mathematician and cyber security professional with a passion for cryptography and vulnerability research. Amatuer ⚾ statistician.
+Mathematician and cyber security professional with a passion for cryptography and vulnerability research. Amateur ⚾ statistician.
 
 ## 💼 Current Work & Expertise
 
@@ -11,7 +11,7 @@ Mathematician and cyber security professional with a passion for cryptography an
 - **Engineering Management:** Occupy a critical role in setting the direction and goals of team with 4 direct reports, leading technical vision of cyber security products.
 - **Software Infrastructure:** Automate and accelerate integration and development processes to hypercharge team workflow.
 - **AI Research:** Contribute to research of Artificial Intelligence, Machine Learning, and Game Theory techniques applied to network graph problems.
-- **Reverse Engineering:** Wield Ghidra with automated Python scripts to dissamble binaries, using memory profiling tools to map inner functionality of computer applications.
+- **Reverse Engineering:** Wield Ghidra with automated Python scripts to disassemble binaries, using memory profiling tools to map inner functionality of computer applications.
 
 ## 📚 Education & Background
 
