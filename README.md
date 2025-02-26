@@ -10,12 +10,12 @@ Mathematician and cyber security professional with a passion for cryptography an
 - **Application Development:** Architect and implement network and cyber security applications using C#, Python, Rust, and C++.
 - **Engineering Management:** Occupy a critical role in setting the direction and goals of team with 4 direct reports, leading technical vision of cyber security products.
 - **Software Infrastructure:** Automate and accelerate integration and development processes to hypercharge team workflow.
-- **AI Research:** Assist in research of Artificial Intelligenc, Machine Learning, and Game Theory technqiues applied to network graph problems.
+- **AI Research:** Contribute to research of Artificial Intelligence, Machine Learning, and Game Theory techniques applied to network graph problems.
 - **Reverse Engineering:** Wield Ghidra with automated Python scripts to dissamble binaries, using memory profiling tools to map inner functionality of computer applications.
 
 ## 📚 Education & Background
 
-- Majored with a Bachelor of Science in **Applied and Computational Mathematics** from Univeristy of Texas at Austin 🤘🐂, leveraging background to enhance research and theoretical expermients in networking solutions.
+- Majored with a Bachelor of Science in **Applied and Computational Mathematics** from University of Texas at Austin 🤘🐂, leveraging background to enhance research and theoretical experiments in networking solutions.
 - Independent study of reverse engineering, AI, and engineering management principles.
 
 ## 🛠 Technical Skills
