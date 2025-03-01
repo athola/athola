@@ -16,6 +16,7 @@ Mathematician and cyber security professional with a passion for cryptography an
 ## 📚 Education & Background
 
 - Majored with a Bachelor of Science in **Applied and Computational Mathematics** from University of Texas at Austin 🤘🐂, leveraging background to enhance research and theoretical experiments in networking solutions.
+- Programming and Computation Certificate earned through the University of Texas Computer Science program.
 - Independent study of reverse engineering, AI, and engineering management principles.
 
 ## 📜 Languages
