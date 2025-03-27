@@ -5,6 +5,8 @@
 
 Mathematician and cybersecurity professional with a passion for cryptography and vulnerability research. Amateur ⚾ statistician.
 
+I'm available to work on interesting open source projects in Rust! Please contact me directly via [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexthola@gmail.com).
+
 ## 💼 Current Work & Expertise
 
 - **Application Development:** Architect and implement network and cyber security applications using Rust, Python, C#, and C++.
