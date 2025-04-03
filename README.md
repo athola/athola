@@ -17,7 +17,7 @@ I'm available to work on interesting open source projects in Rust! Please contac
 
 ## 📚 Education & Background
 
-- Majored with a Bachelor of Science in **Applied and Computational Mathematics** from University of Texas at Austin 🤘🐂. Applied this erudition towards research and theoretical experiments in networking solutions.
+- Majored with a Bachelor of Science in **Applied and Computational Mathematics** from University of Texas at Austin 🤘🐂. Currently applying pedigree towards research and theoretical experiments in networking solutions.
 - Programming and Computation Certificate earned through the University of Texas Computer Science program.
 - Independent study of reverse engineering, AI, and engineering management principles.
 
