@@ -2,7 +2,7 @@
 
 Staff Software Engineer building cybersecurity tools in Rust and Python. Currently managing a team of 6 engineers while working on network security applications and open source automation tools.
 
-Based in Austin, TX. UT Math grad who got into security through reverse engineering, which led into a deep obsession with systems programming.
+Based in Central Texas. UT Math grad who got into security through reverse engineering, which led into a deep obsession with systems programming.
 
 ## What I Do
 
