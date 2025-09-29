@@ -9,8 +9,8 @@ Based in Central Texas. UT Math grad who got into security through reverse engin
 I manage an engineering team focused on network security tools. Most of my time goes into:
 
 - Writing Rust code for AppSecDev solutions
-- Managing 6 direct reports and helping them grow technically
-- Making architecture decisions - recently led a Python→Rust migration that made our core pipeline 10x faster
+- Managing and mentoring 5 software engineers and 1 test engineer as direct reports
+- Leading architecture decisions - recently championed a Python→Rust migration that made our core pipeline 10x faster
 - Contributing to open source projects, especially around test automation and Rust cryptography
 
 I apply my math background towards researching network graph algorithms and ML threat detection models.
@@ -35,11 +35,11 @@ Now it's on PyPI and processes 1000+ test cases in minutes instead of weeks.
 
 ## Background
 
-Started with a math degree from UT Austin, developed a passion for cybersecurity through CTFs and reverse engineering challenges. Spent a lot of time with Ghidra and Python scripts reverse engineering interesting binaries. Even got to hack Nissan ECUs for a living!
+Graduated with a math degree from UT Austin, developed a passion for cybersecurity through CTFs and reverse engineering challenges. Spent a lot of time with Ghidra and Python scripts reverse engineering interesting binaries. Even got to hack Nissan ECUs for a living!
 
 These days I split time between:
 - **Managing people** (6 direct reports, lots of 1:1s and technical mentoring)
-- **Writing code** (mostly Rust for performance-critical stuff, Python for automation)
+- **Writing code** (mostly Rust for performance-critical stuff, Shell/Python for automation)
 - **Making decisions** about system architecture and technology choices
 - **Research** into network graph algorithms and ML applications in security
 
