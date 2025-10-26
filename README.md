@@ -1,23 +1,18 @@
 # Alex Thola
 
-Staff Software Engineer building cybersecurity tools in Rust and Python. Currently managing a team of 6 engineers while working on network security applications and open source automation tools.
+Staff Software Engineer and manager for a team of six building cybersecurity tools in Rust and Python. Based in Central Texas.
 
-Based in Central Texas. UT Math grad who got into security through reverse engineering, which led into a deep obsession with systems programming.
+I got into software security through reverse engineering and systems programming after graduating from UT with a math degree. My first role out of college was hacking Nissan ECUs to unlock massive performance gains for race engines. From there, I moved into my current role leading a team focused on network security applications.
 
 ## What I Do
 
-I manage an engineering team focused on network security tools. Most of my time goes into:
+I lead an engineering team that builds network security tools, where I split my time between technical leadership and hands-on coding. I mentor a team of six (five software engineers and one test engineer) and design our system architecture. As a recent example, I orchestrated a systems engineering project built for speed and security in Rust.
 
-- Writing Rust code for AppSecDev solutions
-- Managing and mentoring 5 software engineers and 1 test engineer as direct reports
-- Leading architecture decisions - recently championed a Python→Rust migration that made our core pipeline 10x faster
-- Contributing to open source projects, especially around test automation and Rust cryptography
-
-I apply my math background towards researching network graph algorithms and ML threat detection models.
+When I'm writing code, it's primarily Rust for performance-sensitive services. I also contribute to open-source projects in test automation and Rust cryptography, and apply my math background to research on ML-based threat detection and network graph algorithms.
 
 ## Tech Stack
 
-Daily drivers: **Rust** and **Python**. I write C++ when I need to interface with legacy systems, and C# for Windows-specific security tools.
+My daily drivers are **Rust** and **Python**.  I use C++ and C# when a project requires interfacing with legacy systems or Windows-specific APIs.
 
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -29,21 +24,11 @@ Daily drivers: **Rust** and **Python**. I write C++ when I need to interface wit
 ## Recent Projects
 
 ### [ImportoBot](https://github.com/athola/importobot)
-Python tool that converts test cases from various formats (Zephyr, JIRA, TestLink) into Robot Framework. Built this because manually migrating thousands of test cases is an insane proposition.
-
-Now it's on PyPI and processes 1000+ test cases in minutes instead of weeks.
+A Python tool that converts test cases from formats like Zephyr, JIRA, and TestLink into Robot Framework. I built it because our team was facing a manual migration of thousands of test cases, which would be a multi-month effort for a team of test engineers. The tool is now on PyPI and does the job in minutes.
 
 ## Background
 
-Graduated with a math degree from UT Austin, developed a passion for cybersecurity through CTFs and reverse engineering challenges. Spent a lot of time with Ghidra and Python scripts reverse engineering interesting binaries. Even got to hack Nissan ECUs for a living!
-
-These days I split time between:
-- **Managing people** (6 direct reports, lots of 1:1s and technical mentoring)
-- **Writing code** (mostly Rust for performance-critical stuff, Shell/Python for automation)
-- **Making decisions** about system architecture and technology choices
-- **Research** into network graph algorithms and ML applications in security
-
-I have the privilege to balance mentorship with architecting systems to solve fascinating problems.
+I graduated with a math degree from UT (hook 'em) and developed a passion for cybersecurity through CTFs and reverse engineering challenges. A hobbyist interest in deconstructing binaries with Ghidra and Python led to my first reverse engineering job hacking Nissan ECUs.
 
 ## Get in Touch
 
@@ -51,4 +36,4 @@ I have the privilege to balance mentorship with architecting systems to solve fa
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexthola@gmail.com)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@alexthola)
 
-Always interested in talking about Rust performance optimization, network security, or management challenges. Feel free to reach out!
+I'm always open to talking about Rust performance, network security, or engineering management. Don't be a stranger!
