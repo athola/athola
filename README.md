@@ -26,7 +26,7 @@ My daily drivers are **Rust** and **Python**.  I use C++ and C# when a project r
 ### [Importobot](https://github.com/athola/importobot)
 A Python tool that converts test cases from Zephyr, JIRA, and TestLink to Robot Framework. I built it to automate a manual migration of thousands of test cases that would have taken a team of test engineers months to complete. The tool is on PyPI and runs in minutes.
 
-### [EasyResume](https://github.com/athola/importobot)
+### [Simple Resume](https://github.com/athola/simple-resume)
 A Python tool for generating print-ready resumes from YAML. I created this while job hunting because I was frustrated with the limitations of word processors and expensive online resume builders. It uses text and font rendering to produce clean resumes. The tool is on PyPI and seamlessly converts YAML to PDF or HTML in seconds.
 
 ## Background
