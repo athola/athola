@@ -24,14 +24,14 @@ My daily drivers are **Rust** and **Python**.  I use C++ and C# when a project r
 ## Recent Projects
 
 ### [Importobot](https://github.com/athola/importobot)
-A Python tool that converts test cases from Zephyr, JIRA, and TestLink to Robot Framework. I built it to automate a manual migration of thousands of test cases that would have taken a team of test engineers months to complete. The tool is on PyPI and runs in minutes.
+A Python tool that converts test cases from Zephyr, JIRA, and TestLink to Robot Framework. I built it to automate a manual migration of thousands of test cases that would have taken a team of test engineers months to complete. The tool is on PyPI and generates a converted Robot Framework test suite from hundreds of tests in under a minute.
 
 ### [Simple Resume](https://github.com/athola/simple-resume)
-A Python tool for generating print-ready resumes from YAML. I created this while job hunting because I was frustrated with the limitations of word processors and expensive online resume builders. It uses text and font rendering to produce clean resumes. The tool is on PyPI and seamlessly converts YAML to PDF or HTML in seconds.
+A Python tool for generating print-ready resumes from YAML. I created this while job hunting because I was frustrated with the limitations of word processors and expensive online resume builders. It uses text and font rendering to produce clean resumes. The tool is on PyPI and seamlessly converts YAML to LaTeX, HTML, or PDF in seconds.
 
 ## Background
 
-I graduated with a math degree from UT (hook 'em) and developed a passion for cybersecurity through CTFs and reverse engineering challenges. A hobbyist interest in deconstructing binaries with Ghidra and Python led to my first reverse engineering job hacking Nissan ECUs.
+I graduated with a math degree from UT (hook 'em) and developed a passion for cybersecurity through CTFs and reverse engineering challenges. My interest in deconstructing binaries with Ghidra and Python led to my first reverse engineering job hacking Nissan ECUs.
 
 ## Get in Touch
 
