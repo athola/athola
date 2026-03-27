@@ -1,18 +1,16 @@
 # Alex Thola
 
-Staff Software Engineer and manager for a team of six building cybersecurity tools in Rust and Python. Based in Central Texas.
+Senior Network Engineer at webAI. Based in Austin, Texas.
 
-I got into software security through reverse engineering and systems programming after graduating from UT with a math degree. My first role out of college was hacking Nissan ECUs to unlock massive performance gains for race engines. From there, I moved into my current role leading a team focused on network security applications.
+I got into security through reverse engineering and systems programming after graduating from UT with a math degree. My first job was hacking Nissan ECUs to unlock performance gains for race engines. From there I moved into cybersecurity, leading a team building network security tools in Rust and Python.
 
 ## What I Do
 
-I lead an engineering team that builds network security tools, where I split my time between technical leadership and hands-on coding. I mentor a team of six (five software engineers and one test engineer) and design our system architecture. As a recent example, I orchestrated a systems engineering project built for speed and security in Rust.
-
-When I'm writing code, it's primarily Rust for performance-sensitive services. I also contribute to open-source projects in test automation and Rust cryptography, and apply my math background to research on ML-based threat detection and network graph algorithms.
+I focus on application and platform security engineering. Previously, I led a team of six (five software engineers and one test engineer), designed system architecture, and wrote Rust for performance-sensitive services. I also apply my math background to ML-based threat detection and network graph algorithms.
 
 ## Tech Stack
 
-My daily drivers are **Rust** and **Python**.  I use C++ and C# when a project requires interfacing with legacy systems or Windows-specific APIs.
+**Rust** and **Python** daily. C++ and C# when interfacing with legacy systems or Windows-specific APIs.
 
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -21,17 +19,23 @@ My daily drivers are **Rust** and **Python**.  I use C++ and C# when a project r
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-## Recent Projects
+## Projects
 
-### [Importobot](https://github.com/athola/importobot)
-A Python tool that converts test cases from Zephyr, JIRA, and TestLink to Robot Framework. I built it to automate a manual migration of thousands of test cases that would have taken a team of test engineers months to complete. The tool is on PyPI and generates a converted Robot Framework test suite from hundreds of tests in under a minute.
+### [Claude Night Market](https://github.com/athola/claude-night-market)
+An ecosystem of 18 production-ready Claude Code plugins covering git workflows, code review, spec-driven development, architecture patterns, and multi-LLM delegation. 142 skills, 109 commands, 47 agents.
+
+### [Skrills](https://github.com/athola/skrills)
+A Rust CLI that coordinates skills between Codex, Copilot, and Claude Code. Validates, analyzes, and syncs skills, subagents, commands, and configuration across multiple AI coding assistants.
 
 ### [Simple Resume](https://github.com/athola/simple-resume)
-A Python tool for generating print-ready resumes from YAML. I created this while job hunting because I was frustrated with the limitations of word processors and expensive online resume builders. It uses text and font rendering to produce clean resumes. The tool is on PyPI and seamlessly converts YAML to LaTeX, HTML, or PDF in seconds.
+A Python tool that generates print-ready PDF, HTML, and LaTeX resumes from YAML. Built out of frustration with word processors and overpriced resume builders. Available on PyPI.
+
+### [Importobot](https://github.com/athola/importobot)
+A Python tool that converts test cases from Zephyr, JIRA, and TestLink to Robot Framework. Automates a migration that would take a team of test engineers months. Converts hundreds of tests in under a minute. Available on PyPI.
 
 ## Background
 
-I graduated with a math degree from UT (hook 'em) and developed a passion for cybersecurity through CTFs and reverse engineering challenges. My interest in deconstructing binaries with Ghidra and Python led to my first reverse engineering job hacking Nissan ECUs.
+Math degree from UT (hook 'em). Got hooked on cybersecurity through CTFs and reverse engineering challenges. Deconstructing binaries with Ghidra and Python led to my first job hacking Nissan ECUs.
 
 ## Get in Touch
 
@@ -39,4 +43,4 @@ I graduated with a math degree from UT (hook 'em) and developed a passion for cy
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexthola@gmail.com)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@alexthola)
 
-I'm always open to talking about Rust performance, network security, or engineering management. Don't be a stranger!
+Always up for talking Rust performance, network security, or engineering management.
