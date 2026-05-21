@@ -18,24 +18,27 @@ I focus on application and platform security engineering. Previously, I led a te
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 
 ## Projects
 
 ### [Claude Night Market](https://github.com/athola/claude-night-market)
-An ecosystem of 18 production-ready Claude Code plugins covering git workflows, code review, spec-driven development, architecture patterns, and multi-LLM delegation. 142 skills, 109 commands, 47 agents.
+23 Claude Code plugins covering git workflows, code review, spec-driven development, architecture patterns, and multi-LLM delegation. 186 skills, 128 commands, 54 agents.
 
 ### [Skrills](https://github.com/athola/skrills)
 A Rust CLI that coordinates skills between Codex, Copilot, and Claude Code. Validates, analyzes, and syncs skills, subagents, commands, and configuration across multiple AI coding assistants.
+
+### [Blog](https://github.com/athola/blog)
+Personal blog on a full-Rust stack: Axum backend, Leptos for frontend components, SurrealDB. No JavaScript.
 
 ### [Simple Resume](https://github.com/athola/simple-resume)
 A Python tool that generates print-ready PDF, HTML, and LaTeX resumes from YAML. Built out of frustration with word processors and overpriced resume builders. Available on PyPI.
 
 ### [Importobot](https://github.com/athola/importobot)
-A Python tool that converts test cases from Zephyr, JIRA, and TestLink to Robot Framework. Automates a migration that would take a team of test engineers months. Converts hundreds of tests in under a minute. Available on PyPI.
+A Python tool that converts test cases from Zephyr, TestLink, and Xray to Robot Framework. Automates a migration that would take a team of test engineers months. Converts hundreds of tests in under a minute. Available on PyPI.
 
-## Background
-
-Math degree from UT (hook 'em). Got hooked on cybersecurity through CTFs and reverse engineering challenges. Deconstructing binaries with Ghidra and Python led to my first job hacking Nissan ECUs.
+### [The Daily Update](https://github.com/athola/the-daily-update)
+Terminal-based daily news aggregator with weather and stock data.
 
 ## Get in Touch
 
