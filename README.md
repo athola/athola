@@ -1,6 +1,6 @@
 # Alex Thola
 
-Senior Network Engineer at webAI. Based in Austin, Texas.
+Senior Network Engineer at webAI in Austin, Texas.
 
 I got into security through reverse engineering and systems programming after graduating from UT with a math degree. My first job was hacking Nissan ECUs to unlock performance gains for race engines. From there I moved into cybersecurity, leading a team building network security tools in Rust and Python.
 
